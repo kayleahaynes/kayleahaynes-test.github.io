@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
 title: Kaylea - for the love of barcharts
-description: A place to dabble in a bit of data visualisations 
+description: A place to dabble in a bit of data visualisations
+
+theme: jekyll-theme-hyde
+
+# Navigation links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+
+# Build settings
+markdown: kramdown
