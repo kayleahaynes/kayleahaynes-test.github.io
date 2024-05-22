@@ -1,7 +1,7 @@
 title: Kaylea - for the love of barcharts
 description: A place to dabble in a bit of data visualisations
 
-theme: jekyll-theme-hyde
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Navigation links
 navigation:
